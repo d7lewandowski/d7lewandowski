@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @d7lewandowski
 - 👀 I’m interested in Data Enginniering / Data Science
-- 🌱 I’m currently learning AWS, SQL, PYSPARK, MACHINE LEARNING
-- 💞️ I’m looking to collaborate on kaggle
+- 🌱 I’m currently learning AWS Certified Data Engineer, Databricks, SQL, PYSPARK
 - 📫 How to reach me d7lewandowski@gmail.com
 
 <!---
